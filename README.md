@@ -4,13 +4,9 @@ ExonImpact: Prioritizing Pathogenic Alternative Splicing Events.
 
 # Web Server
 This website and associate databased are nolonger maintained, all the necessary code and data are list in github or in the published paper.
-http://1bnx.f.time4vps.cloud/ExonImpact2/
+
 
 # ExonImpact
-
-
-
-GPLv3 License
 
 After downloading the source code from this site, we recommand the user integrate the source code in eclipse environment. The next step is building the required database. 
 Althought the user can build the database on their own, however, we strongly recommend the users download the database from our website, rather than build it by themself. One reason is that SPINE-X and SPINE-D are very very time consuming (We took a month to run it on IU supercomputer). 
