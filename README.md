@@ -16,10 +16,13 @@ So in all, the install procedure include:
 
 # Install
 1.douwnload the source code from this website, and download the database from our database:  
-wget http://intron-splicing-order.online/db/ensembl.db
-wget http://intron-splicing-order.online/db/phylop.tar.gz
-wget http://intron-splicing-order.online/db/ens_extern_hg19.bed
-wget http://intron-splicing-order.online/db/chrom.tar.gz
+wget http://intron-splicing-order.online/db/ensembl.db 
+
+wget http://intron-splicing-order.online/db/phylop.tar.gz 
+
+wget http://intron-splicing-order.online/db/ens_extern_hg19.bed 
+
+wget http://intron-splicing-order.online/db/chrom.tar.gz 
 
 The full dataset of phylop can be obtained from UCSC.
 
